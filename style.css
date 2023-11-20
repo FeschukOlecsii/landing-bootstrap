@@ -1,0 +1,34 @@
+#img-feedback{
+    background-color: #000;
+}
+
+#img-feedback img {
+    filter: brightness(40%)
+}
+
+#border-dotted{
+    border-style: dotted dotted none dotted;
+    width: 350px; 
+}
+#diagnostic{
+    background: linear-gradient(to bottom right, #0d6efd, cyan);
+}
+#leave-a-request{
+    background: linear-gradient(to bottom left, #fdf10d, rgb(255, 191, 0));
+}
+
+#floatingNumber{
+    width: 400px;
+}
+
+#floatingName{
+    width: 400px;
+}
+
+#feedback-button{
+    width: 400px;
+}
+
+.service-card:hover{
+    background-color: #f0f0f0;
+}
